@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A Web Developer</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" height="300"/>
- </div>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohan2002" /> </p>
 
